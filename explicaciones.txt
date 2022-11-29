@@ -1,3 +1,6 @@
 variable: Es una caja donde guardamos toda nuestra información,le asignaremos un nombre y asi mismo lo buscaremos 
 strings: Es un bloque de palabras donde podemos dar o pedir una informacion es totalmente textual
-funciones:
+funciones: es cuando se realiza o ponemos en accion lo que queremos hacer, como golpear el balon con el pie a esa accion le daremos un nombre "patear".Podemos darle valor a las acciones y con esto esperar una respeuesta,al saludar que seria la accion podemos pedir el nombre y al recibir la respuesta tendriamos una informacion que guardariamos gracias a esta acción 
+declaraciones if: para que la funcion qué queremos realizar se pueda hacer,tiene que cumplir con unas condiciones, ejemplo el partido de futbol es para ñiños mayores de 10 años
+valores booleanos: cuando pedimos una informacion,su respuesta estara condiconada,nos dara un valor falso o verdadero,ejemplo el piso se moja cuando llueve o cuando abro la ducha.En este ejemplo ambos son verdad,entonces nuestra informacion sera verdadera
+
