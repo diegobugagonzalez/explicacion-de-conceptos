@@ -1,0 +1,3 @@
+variable: Es una caja donde guardamos toda nuestra información,le asignaremos un nombre y asi mismo lo buscaremos 
+strings: Es un bloque de palabras donde podemos dar o pedir una informacion es totalmente textual
+funciones:
